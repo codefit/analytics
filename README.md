@@ -1,7 +1,9 @@
 # FB PIXEL
 
 
-Purchase: Someone completes a purchase on your website.
+>Purchase: 
+
+Someone completes a purchase on your website.
 
 
 
